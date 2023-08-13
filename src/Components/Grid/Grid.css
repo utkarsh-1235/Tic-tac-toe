@@ -1,8 +1,13 @@
 .grid{
-    height:500px;
-    width: 500px;
+    height:400px;
+    width:400px;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
+    
+}
+.grid-wrapper{
+    color: white;
+    margin-left: 20px;
 }
